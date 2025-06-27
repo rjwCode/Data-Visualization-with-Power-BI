@@ -3,6 +3,7 @@
 
 # Data-Visualization-with-Power-BI
 <hr><b>Tools Used:</b> Power BI Desktop, Power Query, DAX, Power BI Service<hr>
+<hr><b>Link to the Report:</b>https://app.powerbi.com/view?r=eyJrIjoiZGRiZTczNTEtN2YxNC00OGRmLWI3MWUtNDM0YjFiYTgxZmI5IiwidCI6IjNlYTM4YTgyLTZlOGMtNGUzMC05MzcwLWQ3MGMwNDBhM2U5NCJ9<hr>
 
 ![powerbi_project1_report](https://github.com/user-attachments/assets/633d59de-a6bd-4985-955f-e2f04c0bb267)
 
